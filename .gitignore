@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
+
+# Logs and temp output
+*.log
+scan*.txt
